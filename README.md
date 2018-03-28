@@ -1,1 +1,2 @@
-# Symulator-pojazdu-z-ustalon-cie-k-
+# Symulator pojazdu z ustaloną ścieżką Beziera wzdłóż której się porusza.
+Projekt utworzony przy pomocy Unity 5.5.2f1 (64-bit), napisany z wykorzystaniem języka C#. Ścieżka pojazdu ustalana jest przed właściwym uruchomieniem. Ścieżka wyliczana jest na podstawie punktów kontrolnych z wykorzystaniem algorytmu de Casteljau. Pojazd posiada prymitywny mechanizm wykrywania kolizji, jeśli jakiś obiekt znajdzie się w zasięgu promieni pojazd zatrzyma się.
